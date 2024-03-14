@@ -1,16 +1,17 @@
-title:: Developer test project
+# Developer test project
 
-- Developer test project
-- Subject: PHP Developer Test Project - Simple Blog Application with User Authentication
+Developer test project
+PHP Developer Test Project - Simple Blog Application with User Authentication
   
-  Dear Candidate,
-  
-  Thank you for your interest in our PHP Developer position. As part of
-  our evaluation process, we would like you to complete a small test
-  project to demonstrate your PHP and web development skills. The
-  project should be completed within one week, and your submission
-  should be a working application with source code.
-- # Project Description
+Dear Candidate,
+
+Thank you for your interest in our PHP Developer position. As part of
+our evaluation process, we would like you to complete a small test
+project to demonstrate your PHP and web development skills. The
+project should be completed within one week, and your submission
+should be a working application with source code.
+
+## Project Description
   
   Create a simple blog application with user authentication using
   PHP. You are free to use any PHP framework or plain PHP for this
@@ -33,7 +34,7 @@ title:: Developer test project
     GitLab CI/CD.
   * *Bonus 3:* Use E2E testing frameworks such as Cypress
   
-- # Requirements
+## Requirements
   
   * Use Git for version control and provide a link to the repository
     in your submission (Such as GitHub, GitLab).
