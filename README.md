@@ -1,14 +1,11 @@
-# Developer test project
+# Developer test project - Simple Blog Application with User Authentication
 
-Developer test project
-PHP Developer Test Project - Simple Blog Application with User Authentication
-  
 Dear Candidate,
 
 Thank you for your interest in our PHP Developer position. As part of
 our evaluation process, we would like you to complete a small test
 project to demonstrate your PHP and web development skills. The
-project should be completed within one week, and your submission
+project should be completed within 4 days, and your submission
 should be a working application with source code.
 
 ## Project Description
