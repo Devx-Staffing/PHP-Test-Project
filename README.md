@@ -6,7 +6,7 @@ Thank you for your interest in our PHP Developer position. As part of
 our evaluation process, we would like you to complete a small test
 project to demonstrate your PHP and web development skills. The
 project should be completed within 4 days, and your submission
-should be a working application with source code.
+should be a working application with source code. Please use GitHub for source control and commit your code in small chunks.
 
 ## Project Description
   
